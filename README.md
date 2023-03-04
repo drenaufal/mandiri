@@ -1,2 +1,3 @@
 # 
 assesment mandiri
+Dicky Renaufal
